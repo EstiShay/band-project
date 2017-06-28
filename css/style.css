@@ -13,9 +13,13 @@ h1{
   color: white;
   float: right;
   padding: 8px;
+  border: 3px solid purple;
+  margin: 5px;
+  padding-bottom: 100%;
 }
 
 img {
   float: left;
   height: 150px;
+  padding: 10px;
 }
