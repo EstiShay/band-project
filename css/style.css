@@ -1,5 +1,21 @@
+body {
+  font-family: Arial;
+}
+
 h1{
   font-family: noteworthy;
   text-align: center;
   color: purple;
+}
+
+.sidebar{
+  background-color: black;
+  color: white;
+  float: right;
+  padding: 8px;
+}
+
+img {
+  float: left;
+  height: 150px;
 }
